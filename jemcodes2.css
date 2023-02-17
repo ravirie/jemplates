@@ -1,0 +1,31 @@
+/* JEM'S COLORS & UNICODES */
+
+#amber {
+  --unicode:'\a131';
+  --main: 215, 146, 151;
+  --alt:176, 111, 116; 
+}
+
+#aurelie {
+  --unicode:'\a46';
+  --main:223, 186, 100;
+  --alt:184, 164, 119;
+}
+
+#cain {
+  --unicode:'\a92';
+  --main:150, 199, 193;
+  --alt:153, 173, 171;
+}
+
+#mars {
+  --unicode:'\a129';
+  --main: 146, 202, 167;
+}
+
+
+#odin {
+  --unicode:'\e90d';
+  --main:169, 183, 222;
+  --alt:112, 130, 179;
+}

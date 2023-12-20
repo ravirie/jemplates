@@ -3,23 +3,24 @@
 #amber {
   --unicode:'\a131';
   --main: 215, 146, 151;
-  --alt:199, 91, 99; 
 }
 
 #mars {
   --unicode:'\a129';
   --main: 146, 202, 167;
-  --alt:89, 171, 120; 
 }
 
 #odin {
   --unicode:'\e90d';
   --main:217, 167, 126;
-  --alt:199, 146, 103;
 }
 
 #sarika {
   --unicode:'\a42';
   --main:184, 68, 101;
-  --alt:153, 40, 72;
+}
+
+#isolde {
+  --unicode:'\e902';
+  --main:73, 38, 112;
 }

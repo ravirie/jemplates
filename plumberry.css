@@ -134,7 +134,6 @@
 .pb-body {
   overflow:hidden;
   padding:50px;
-  background:linear-gradient(to bottom, #f3f3f3 80%, rgba(var(--main), 0.15));
 }
 
 @media (max-width: 1000px) {

@@ -8,7 +8,7 @@
   border:1px solid #dbdbdb;
   overflow:hidden;
   background:#f3f3f3;
-  font-family: nunito; 
+  font-family: quicksand; 
   font-weight:400;
   color:#797979;
   font-size:15px;
@@ -87,7 +87,7 @@
   z-index:-1;
   display:block;
   width:100%;
-  font-family:nunito;
+  font-family:quicksand;
   font-weight:400;
   text-transform:uppercase;
   font-style:normal!important;

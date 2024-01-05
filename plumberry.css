@@ -106,7 +106,7 @@
 }
 
 .pb-tag date u {
-  font-weight:900;
+  font-weight:700;
   text-decoration:none!important;
   margin-right:3px;
   color:rgba(var(--main), 0.75);
@@ -114,7 +114,7 @@
 
 .pb-tag a.user-tagged {
   z-index:2;
-  font-weight:900;
+  font-weight:700;
   text-transform:uppercase;
   font-style:italic;
   font-size:16px;
@@ -142,7 +142,7 @@
 
 .pb-body b {
   color:rgba(var(--main));
-  font-weight:900;
+  font-weight:700;
 }
 
 .pb-body i {

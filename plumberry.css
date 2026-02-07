@@ -116,7 +116,7 @@
   font-weight:700;
   text-transform:uppercase;
   font-style:italic;
-  font-size:16px;
+  font-size:15px;
   color:rgba(var(--main));
   border-bottom:0px!important;
 }
@@ -177,6 +177,7 @@
   top:25px;
   text-align:right;
 }
+
 
 
 

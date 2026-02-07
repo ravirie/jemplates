@@ -12,7 +12,7 @@
   font-weight:400;
   color:#797979;
   font-size:14px;
-  line-height:24px;
+  line-height:22px;
   z-index:1;
   text-shadow: -1px 0 #f3f3f3, 0 1px #f3f3f3, 1px 0 #f3f3f3, 0 -1px #f3f3f3;
   box-shadow:3px 3px 5px #e1e1e1;
@@ -177,6 +177,7 @@
   top:25px;
   text-align:right;
 }
+
 
 
 

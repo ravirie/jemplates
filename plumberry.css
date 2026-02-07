@@ -11,7 +11,7 @@
   font-family: quicksand; 
   font-weight:400;
   color:#797979;
-  font-size:13px;
+  font-size:14px;
   line-height:24px;
   z-index:1;
   text-shadow: -1px 0 #f3f3f3, 0 1px #f3f3f3, 1px 0 #f3f3f3, 0 -1px #f3f3f3;
@@ -177,6 +177,7 @@
   top:25px;
   text-align:right;
 }
+
 
 
 

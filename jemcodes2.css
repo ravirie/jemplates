@@ -1,21 +1,9 @@
 /* JEM'S COLORS & UNICODES */
 
 #amber {
-  --unicode:'\a131';
-  --main: 215, 146, 151;
-  --alt: 215, 146, 151;
-}
-
-#mars {
-  --unicode:'\a129';
-  --main: 146, 202, 167;
-  --alt: 146, 202, 167;
-}
-
-#odin {
-  --unicode:'\e90d';
-  --main:217, 167, 126;
-  --alt:217, 167, 126;
+  --unicode:'\a85';
+  --main: 187, 133, 136;
+  --alt: 187, 133, 136;
 }
 
 #piper {
